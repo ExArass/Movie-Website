@@ -11,6 +11,7 @@ Scrolling movie banners with navbar, sidebar and other menu features wrapped in 
 
 # Screen Preview
 
+![Movie-website](https://github.com/ExArass/Movie-website/assets/119482782/d7d06485-c0c3-4f53-989e-b30366aeef4f)
 
 
 
