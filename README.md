@@ -11,4 +11,5 @@ Scrolling movie banners with navbar, sidebar and other menu features wrapped in 
 
 # Screen Preview
 
-![Uploading Movie-website.gif.gif…]()
+![Uploading Movie-website.gif…]()
+
