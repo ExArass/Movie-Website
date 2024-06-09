@@ -9,4 +9,6 @@ Scrolling movie banners with navbar, sidebar and other menu features wrapped in 
 *Black/White display mode
 *Responsive feature
 
+# Screen Preview
 
+![Uploading Movie-website.gif.gif…]()
