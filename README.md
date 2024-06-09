@@ -10,7 +10,7 @@ Scrolling movie banners with navbar, sidebar and other menu features wrapped in 
 *Responsive feature
 
 # Screen Preview
-![Uploading Movie-website-ezgif.com-video-to-gif-converter.gif…]()
+
 
 
 
